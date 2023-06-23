@@ -70,5 +70,5 @@ For this tutorial, you will learn how to search for both five and nine digit zip
 ## Author
 
 Christopher Brown is a student currently enrolled in the EDX FullStack Bootcamp at the University of Richmond.<br>
-Regex Gist:https://gist.github.com/blaxlrose/665a6bcdd4c56ec6425e226fb92c2f39<br>
-Github: https://github.com/blaxlrose
+Github Gist: https://gist.github.com/blaxlrose/665a6bcdd4c56ec6425e226fb92c2f39<br>
+Github Repository: https://github.com/blaxlrose/challenge-17-regex-tutorial
